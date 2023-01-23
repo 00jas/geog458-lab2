@@ -11,17 +11,17 @@ I have chosen three different locations to collect the data with the same set of
 
 The three word clouds created are in the following: 
 
-![word cloud 1 London]("screenshot_of_wordcloud-1-london_football.png")
+![word cloud 1 London](img/screenshot_of_wordcloud-1-london_football.png)
 
 In London, football is one of the most popular sports, in terms of both participants and spectators. London has some leading football clubs and is home to seventeen professional clubs, such as Chelsea and Tottenham Hotspur.
 [linked text](url)
 
-![word cloud 2 Hong Kong]("screenshot_of_wordcloud-2-hongkong_football.png")
+![word cloud 2 Hong Kong](img/screenshot_of_wordcloud-2-hongkong_football.png)
 
 Hong Kong is also a big fan of football. People in Hong Kong not only watch The Hong Kong Premier League, but also the games in the United Kingdom. 
 [linked text](url)
 
-![word cloud 3 Seattle]("screenshot_of_wordcloud-3-seattle_football.png")
+![word cloud 3 Seattle](img/screenshot_of_wordcloud-3-seattle_football.png)
 
 Unlike London and Hong Kong, in the United States, football mainly refers to the NFL. It is a totally different kind of sport with different rules. American football is the most popular in the United States, followed by Mexico and Canada. 
 [linked text](url)
