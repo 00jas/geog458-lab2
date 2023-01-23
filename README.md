@@ -3,23 +3,29 @@
 
 For Lab 2. I have focused on collecting tweets containing the discussion of **“Football”** from **"2022-4-1"** in **three** different places with the same set of search parameters. 
 
-Three word clouds are created after deleting the meaningless terms. Thus, the parameters I have used for search include “Football” as the search word, the longitude and latitude of the chosen location, the radius is `30 miles` which allows the buffer to cover the area where the data will be collected, and “2022-4-1” for date since. I chose this specific date because I wanted to collect data for a few months during the league competitions, and before the World Cup started. 
+Three word clouds are created after deleting the meaningless terms. Thus, the parameters I have used for search include `“Football”` as the search word, the longitude and latitude of the chosen location, the radius is `30 miles` which allows the buffer to cover the area where the data will be collected, and `“2022-4-1”` for date since. I chose this specific date because I wanted to collect data for a few months during the league competitions, and before the World Cup started. 
 
-I have chosen three different locations to collect the data with the same set of search parameters. The three locations are `London`, `Hong Kong`, and `Seattle`. “Football” sometimes refers to different sports in these three cities. I would like to compare the results and see what people are interested in when focusing on “Football”. 
+I have chosen three different locations to collect the data with the same set of search parameters. The three locations are `London`, `Hong Kong`, and `Seattle`. 
+
+**Footbal** sometimes refers to different sports in these three cities. I would like to compare the results and see what people are interested in when focusing on `“Football”`. 
 
 The three word clouds created are in the following: 
 
 ![word cloud 1 London]("screenshot_of_wordcloud-1-london_football.png")
+
 In London, football is one of the most popular sports, in terms of both participants and spectators. London has some leading football clubs and is home to seventeen professional clubs, such as Chelsea and Tottenham Hotspur.
 [linked text](url)
 
 ![word cloud 2 Hong Kong]("screenshot_of_wordcloud-2-hongkong_football.png")
+
 Hong Kong is also a big fan of football. People in Hong Kong not only watch The Hong Kong Premier League, but also the games in the United Kingdom. 
 [linked text](url)
 
 ![word cloud 3 Seattle]("screenshot_of_wordcloud-3-seattle_football.png")
+
 Unlike London and Hong Kong, in the United States, football mainly refers to the NFL. It is a totally different kind of sport with different rules. American football is the most popular in the United States, followed by Mexico and Canada. 
 [linked text](url)
+
 
 These three word clouds have various similarities and differences. 
 
